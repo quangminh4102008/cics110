@@ -1,3 +1,7 @@
+# Author   : Minh Truong
+# Email    : qtruong@umass.edu
+# Spire ID : 35727586
+
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
 add = a+b
