@@ -2,5 +2,6 @@
 # Email    : qtruong@umass.edu
 # Spire ID : 35727586
 
-s = input("Enter input: ")
-print(s)
+a = input("Enter the string a: ")
+b = input("Enter the string b: ")
+print(a+b)
